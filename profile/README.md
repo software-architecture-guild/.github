@@ -1,3 +1,7 @@
+<center>
+    <img src="logo.png" width="70%" alt="LOGO">
+</center>
+
 ## Who We Are
 
 The Software Architecture Guild is a group of experienced architects who share a common passion: advancing the art and science of software architecture. Over the years, we’ve worked together, solving complex challenges and refining our approach to building scalable, maintainable, and effective software systems.
