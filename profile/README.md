@@ -1,5 +1,5 @@
 <center>
-    <img src="logo.png" align="center" width="70%" alt="LOGO">
+    <img src="logo.png" width="70%" alt="LOGO" style="display: block;margin-left: auto;margin-right: auto;">
 </center>
 
 ## Who We Are
