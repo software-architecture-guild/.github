@@ -1,6 +1,6 @@
-<center>
-    <img src="logo.png" width="70%" alt="LOGO" style="display: block;margin-left: auto;margin-right: auto;">
-</center>
+<p align="center">
+    <img src="logo.png" width="70%" alt="LOGO">
+</p>
 
 ## Who We Are
 
