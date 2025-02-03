@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="logo.png" width="70%" alt="LOGO">
+    <img src="logo-vertical-long.drawio.png" width="100%" alt="LOGO">
 </p>
 
 ## Who We Are
