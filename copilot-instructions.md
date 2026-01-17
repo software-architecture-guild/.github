@@ -1,20 +1,34 @@
 # Workspace Instructions for AI Agents
 
-This workspace contains five interconnected projects focused on software architecture knowledge and course delivery. **Each repository has its own `.github/copilot-instructions.md`** tailored to its specific patterns and workflows.
+This workspace contains five interconnected projects focused on software
+architecture knowledge and course delivery. Each repository has its own
+`.github/copilot-instructions.md` file tailored to its specific patterns and
+workflows.
 
-## Repository Index
+## Repository Overview
 
-| Repository | Purpose | Key Pattern |
-|---|---|---|
-| [courses/](courses/.github/copilot-instructions.md) | Python CLI: markdown → Google Slides → PDF → HeyGen videos | Content parsing, batch API sync, browser automation |
-| [materials/](materials/.github/copilot-instructions.md) | Knowledge library from architecture & organizational books | Read-heavy, structured notes, topic hierarchies |
-| [social-posts/](social-posts/.github/copilot-instructions.md) | Social media content database (LinkedIn, Substack, general) | Platform-specific tone, progress tracking, cross-linking |
-| [software-architecture-guild.github.io/](software-architecture-guild.github.io/.github/copilot-instructions.md) | Hugo static website: guide, blog, authors | Ilya's style guide, quality attributes, traceability |
-| [prompts/](prompts/.github/copilot-instructions.md) | AI copywriting prompt templates | Standardized AI workflows, quality gates |
+The workspace includes:
+
+- **courses/** - Python CLI tool: markdown to Google Slides to PDF to HeyGen
+  videos. See `.github/copilot-instructions.md` in that directory.
+
+- **materials/** - Knowledge library from architecture and organizational books.
+  See `.github/copilot-instructions.md` in that directory.
+
+- **social-posts/** - Social media content database for LinkedIn, Substack, and
+  general posts. See `.github/copilot-instructions.md` in that directory.
+
+- **software-architecture-guild.github.io/** - Hugo static website with guide,
+  blog, and authors sections. See `.github/copilot-instructions.md` in that
+  directory.
+
+- **prompts/** - AI copywriting prompt templates. See `.github/copilot-instructions.md`
+  in that directory.
 
 ## Quick Navigation
 
 When working on a specific repository, **always check that repo's `.github/copilot-instructions.md` first**. It contains:
+
 - Project-specific architecture and data structures
 - Key development commands and workflows
 - Code style and patterns for that repo
@@ -44,5 +58,3 @@ When working on a specific repository, **always check that repo's `.github/copil
 2. **Test single item first** — Never run multi-item operations without one test
 3. **Ask before major changes** — Refactors, new files, signature changes need approval
 4. **No assumptions** — If instruction is ambiguous, ask for clarification
-
-
